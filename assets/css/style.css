@@ -97,25 +97,37 @@ button[disabled] {
   float: right;
 }
 
+.gif-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: #404040;
+}
+
+#gif {
+  max-width: 100%;
+}
+
 #password {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
+  position: absolute;
+  top: 13px;
+  margin-bottom: 20px;
+  width: 80%;
+  height: 80%;
+  background: rgba(255, 255, 255, 0.7); 
   border: none;
-  display: block;
-  width: 100%;
-  padding-top: 15px;
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-bottom: 85px;
   font-size: 1.2rem;
+  line-height: 1.2;
   text-align: center;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  border: 2px dashed #c0c7cf;
-  border-radius: 6px;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px; 
   resize: none;
   overflow: hidden;
+  display: none; 
 }
 
 @media (max-width: 690px) {
