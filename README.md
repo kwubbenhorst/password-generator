@@ -11,6 +11,27 @@ N/A
 
 This application is deployed on the world wide web and ready to use.  Please visit: https://kwubbenhorst.github.io/password-generator  following screenshots will illustrate the journey the user will take through the flow of the program:
 
+![Screen Shot 2023-10-23 at 8 49 21 PM](https://github.com/kwubbenhorst/password-generator/assets/140316693/238b473b-b9a6-499d-aa0a-46c7f81af4e4)
+
+![Screen Shot 2023-10-23 at 8 49 36 PM](https://github.com/kwubbenhorst/password-generator/assets/140316693/dd8a9bcb-e796-485b-b2a0-4966508efed5)
+
+![Screen Shot 2023-10-23 at 8 49 53 PM](https://github.com/kwubbenhorst/password-generator/assets/140316693/b9db0adf-b52f-4f02-94c1-4098e4f5dd61)
+
+![Screen Shot 2023-10-23 at 8 50 05 PM](https://github.com/kwubbenhorst/password-generator/assets/140316693/7a4a3e63-276c-4ede-9737-9582241a9c4e)
+
+![Screen Shot 2023-10-23 at 8 50 18 PM](https://github.com/kwubbenhorst/password-generator/assets/140316693/426ed7cf-7e53-4c5c-bee0-4e6c2ed205d4)
+
+![Screen Shot 2023-10-23 at 8 50 35 PM](https://github.com/kwubbenhorst/password-generator/assets/140316693/be86edf8-b713-4aa3-b5c0-3310ad7957f7)
+
+![Screen Shot 2023-10-23 at 8 50 53 PM](https://github.com/kwubbenhorst/password-generator/assets/140316693/a5fffab4-d3ca-4c45-bb50-1cff73c409a3)
+
+![Screen Shot 2023-10-23 at 8 51 02 PM](https://github.com/kwubbenhorst/password-generator/assets/140316693/7be813ac-cae5-4b4f-9012-c210bcc524d1)
+
+![Screen Shot 2023-10-23 at 8 51 14 PM](https://github.com/kwubbenhorst/password-generator/assets/140316693/ff6b2f32-9623-42ad-a858-e7f33fb15093)
+
+![Screen Shot 2023-10-23 at 8 51 56 PM](https://github.com/kwubbenhorst/password-generator/assets/140316693/a999b6c6-8919-42b4-a270-9f6a0f7c52b0)
+
+
 ## Credits:
 
 This application was authored by Karla Wubbenhorst, using some sourcecode provided by the Module 3 Challenge of the EdX Bootcamps curriculum.  MDN and W3Schools documentation was consulted for help with while loops and the use of the Math object (its floor and random methods).
